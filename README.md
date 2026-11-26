@@ -1,7 +1,8 @@
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) [![rank](https://make.fun/badge/news-image-20261126/hzt1989/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) [![reward](https://make.fun/badge/news-image-20261126/hzt1989/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 # 26 November 2026 — World News in One Image
 
-An entry for make.fun's `news-image-20261126`: one 1024×1024 image that sums
-up Thursday 26 November 2026 in six stories, drawn as a newspaper front page.
+An entry for [make.fun's `news-image-20261126` bounty](https://make.fun/bounty/news-image-20261126): one 1024×1024 image that sums up Thursday 26 November 2026 in six stories, drawn as a newspaper front page.
 
 ## The six stories
 
